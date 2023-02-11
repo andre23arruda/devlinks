@@ -1,0 +1,8 @@
+.vscode/
+.env
+node_modules/
+/.pnp
+.pnp.js
+
+# macOS
+.DS_Store
